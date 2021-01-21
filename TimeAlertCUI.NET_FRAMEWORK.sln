@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeAlertCUI.NET_FRAMEWORK", "TimeAlertCUI.NET_FRAMEWORK.csproj", "{FA31F91F-62EC-4187-A973-8360675ED154}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA31F91F-62EC-4187-A973-8360675ED154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA31F91F-62EC-4187-A973-8360675ED154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA31F91F-62EC-4187-A973-8360675ED154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA31F91F-62EC-4187-A973-8360675ED154}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E84DDACB-CF9C-4E09-B835-BE37C7830B78}
+	EndGlobalSection
+EndGlobal
