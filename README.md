@@ -2,6 +2,9 @@
 This is the program speaking what time it is now aloud.
 # How to use
 You can use this program on Windows PC(x86, x64).
+The program requires .NET Framework 2.0.
+
+You can set up language and speaking interval in config.txt.
 
 # Config
 Supported Language: ja-JP or en-US
