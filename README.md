@@ -14,7 +14,7 @@ ja-JP
 
 3
 
-The program speaks what time it it now aloud in Japanese every 3 minutes.
+The program speaks what time it is now aloud in Japanese every 3 minutes.
 
 # Attention
 You have to use this program on your own responsibility.
